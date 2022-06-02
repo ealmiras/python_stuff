@@ -20,7 +20,7 @@ secret_num /= 2
 # Next, take the new number and subtract your original secret number from it
 secret_num -= 37
 # Print the final result
-print(secret_num)
+print(secret_num) 
 
 # To see my magical prediction, scroll down...
 # â†“
